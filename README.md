@@ -9,7 +9,6 @@
 - 🔭 I'm currently working as a **Backend Developer Intern**
 - 🌱 I'm exploring **Docker**, **Kubernetes**, and **OpenAI APIs**
 - 💼 Building robust APIs with **Node.js**, **Express**, and **MongoDB**
-- 📄 Check out my [Resume](https://link-to-your-resume.pdf) (optional)
 - 💬 Ask me about **JWT, APIs, MongoDB Aggregation, Docker**
 - ⚡ Fun fact: I love building useful backend tools and learning new tech
 
