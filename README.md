@@ -28,8 +28,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/asjal-amir)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mohdasjal1@gmail.com)
 
 ---
 
