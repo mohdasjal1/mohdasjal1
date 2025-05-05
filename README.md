@@ -16,22 +16,15 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages**: JavaScript, Java, C++
+- **Languages**: JavaScript, Python, Java, C++
 - **Backend**: Node.js, Express
-- **Database**: MongoDB
+- **Database**: MongoDB, PostgreSQL
 - **Tools**: Docker, Postman, Git, GitHub
 - **APIs**: OpenAI, Stripe, Cloudinary
 - **Version Control**: Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
-
----
 
 ## 📫 Connect with Me
 
