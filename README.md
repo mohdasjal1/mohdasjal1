@@ -1,16 +1,15 @@
 # 👋 Hi, I'm Asjal Amir
 
-🚀 Backend Developer | Node.js Enthusiast | OpenAI API Integrator | Docker & MongoDB Explorer
+🚀 Backend Developer | Node.js & Express.js | MongoDB & PostgreSQL | Python |
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🔭 I'm currently working as a **Backend Developer Intern**
-- 🌱 I'm exploring **Docker**, **Kubernetes**, and **OpenAI APIs**
-- 💼 Building robust APIs with **Node.js**, **Express**, and **MongoDB**
+- 🌱 I'm exploring **Docker** and **Kubernetes**
+- 💼 Building robust APIs with **Node.js** and **Express**
 - 💬 Ask me about **JWT, APIs, MongoDB Aggregation, Docker**
-- ⚡ Fun fact: I love building useful backend tools and learning new tech
 
 ---
 
@@ -20,7 +19,6 @@
 - **Backend**: Node.js, Express
 - **Database**: MongoDB, PostgreSQL
 - **Tools**: Docker, Postman, Git, GitHub
-- **APIs**: OpenAI, Stripe, Cloudinary
 - **Version Control**: Git & GitHub
 
 ---
