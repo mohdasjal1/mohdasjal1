@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Asjal Amir
 
 🚀 Backend Developer | Node.js Enthusiast | OpenAI API Integrator | Docker & MongoDB Explorer
 
