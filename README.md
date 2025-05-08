@@ -6,10 +6,9 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I'm currently working as a **Backend Developer Intern**
-- 🌱 I'm exploring **Docker** and **Kubernetes**
-- 💼 Building robust APIs with **Node.js** and **Express**
-- 💬 Ask me about **JWT, APIs, MongoDB Aggregation, Docker**
+- 🎯 I'm a **Backend Developer** actively building real-world projects
+- 🌱 Currently learning **Docker** and **Kubernetes** to strengthen DevOps knowledge
+- 🛠️ Experienced in developing scalable RESTful APIs using **Node.js**, **Express**, and **MongoDB**
 
 ---
 
