@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Asjal Amir
 
-🚀 Backend Developer | Node.js & Express.js | MongoDB & PostgreSQL | Python |
+🚀 Data Engineer | Backend Developer | Node.js & Express.js | MongoDB & SQL | Python |
 
 ---
 
@@ -20,8 +20,6 @@
 - **Database**: MongoDB, PostgreSQL
 - **Tools**: Docker, Postman, Git, GitHub
 - **Version Control**: Git & GitHub
-
----
 
 ---
 
@@ -48,5 +46,6 @@
 ---
 
 ⭐️ Star your favorite repositories and let's grow together!
+
 
 
