@@ -17,8 +17,8 @@
 
 - **Languages**: JavaScript, Python, Java, C++
 - **Backend**: Node.js, Express
-- **Database**: MongoDB, PostgreSQL
-- **Tools**: Docker, Postman, Git, GitHub
+- **Database**: MongoDB, PostgreSQL, SQL Server, MySQL
+- **Tools**: Docker, Postman, Git, GitHub, Snowflake, Airflow, Kafka
 - **Version Control**: Git & GitHub
 
 ---
@@ -46,6 +46,7 @@
 ---
 
 ⭐️ Star your favorite repositories and let's grow together!
+
 
 
 
