@@ -23,6 +23,10 @@
 
 ---
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/asjalamir?theme=dark&font=Karma&ext=activity)
+
+---
+
 
 ## 📫 Connect with Me
 
@@ -32,3 +36,4 @@
 ---
 
 ⭐️ Star your favorite repositories and let's grow together!
+
