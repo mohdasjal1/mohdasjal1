@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎯 I'm a **Backend Developer** actively building real-world projects
+- 🎯 I'm a **Data Engineer** and **Backend Developer** actively building real-world projects
 - 🌱 Currently learning **Docker** and **Kubernetes** to strengthen DevOps knowledge
 - 🛠️ Experienced in developing scalable RESTful APIs using **Node.js**, **Express**, and **MongoDB**
 - 📊 Learning about **data pipelines**, **ETL workflows**, and **data analysis** using **Python** and **Pandas**
@@ -46,6 +46,7 @@
 ---
 
 ⭐️ Star your favorite repositories and let's grow together!
+
 
 
 
